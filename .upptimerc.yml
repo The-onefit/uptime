@@ -38,7 +38,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: /uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
