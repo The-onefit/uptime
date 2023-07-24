@@ -1,20 +1,62 @@
 [
   {
-    "name": "theonefitapp.com",
-    "url": "https://www.theonefitapp.com/en/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.theonefitapp.com.ico",
-    "slug": "theonefitapp-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "name": "Public",
+    "url": "$PUBLIC_URL",
+    "icon": "https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png",
+    "slug": "public",
+    "status": "down",
+    "uptime": "8.29%",
+    "uptimeDay": "8.29%",
+    "uptimeWeek": "8.29%",
+    "uptimeMonth": "8.29%",
+    "uptimeYear": "8.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
+  },
+  {
+    "name": "Portal",
+    "url": "$PORTAL_URL",
+    "icon": "https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png",
+    "slug": "portal",
+    "status": "down",
+    "uptime": "5.03%",
+    "uptimeDay": "5.03%",
+    "uptimeWeek": "5.03%",
+    "uptimeMonth": "5.03%",
+    "uptimeYear": "5.03%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
+  },
+  {
+    "name": "API",
+    "url": "$API_URL",
+    "icon": "https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png",
+    "slug": "api",
+    "status": "down",
+    "uptime": "18.25%",
+    "uptimeDay": "18.25%",
+    "uptimeWeek": "18.25%",
+    "uptimeMonth": "18.25%",
+    "uptimeYear": "18.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
   }
 ]
