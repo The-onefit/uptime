@@ -18,8 +18,12 @@ sites:
     url: $PORTAL_URL
     icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
     maxResponseTime: 5000
-  - name: API
-    url: $API_URL
+  - name: Training API
+    url: $TRAINING_API_URL
+    icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+    maxResponseTime: 5000
+  - name: Shop API
+    url: $SHOP_API_URL
     icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
     maxResponseTime: 5000
 
