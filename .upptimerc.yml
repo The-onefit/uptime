@@ -1,31 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: The-onefit
+repo: upptime
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+assignees:
+  - aminraeisi
 
 sites:
-  - name: theonefitapp.com
-    url: https://www.theonefitapp.com/en/
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
+  - name: Public
+    url: $PUBLIC_URL
+    icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+    maxResponseTime: 5000
+  - name: Portal
+    url: $PORTAL_URL
+    icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+    maxResponseTime: 5000
+  - name: API
+    url: $API_URL
+    icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+    maxResponseTime: 5000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: dark
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.theonefitapp.com/assets/images/favicon_io/apple-touch-icon.png
+  favicon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+  name: ONEFIT Upptime
+  introTitle: ""
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
