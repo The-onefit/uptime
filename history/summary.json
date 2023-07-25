@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 73,
+    "timeDay": 71,
     "timeWeek": 66,
     "timeMonth": 66,
     "timeYear": 66,
@@ -64,91 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 76,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 71,
+    "timeDay": 74,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "9.01%",
-    "uptimeDay": "9.01%",
-    "uptimeWeek": "9.01%",
-    "uptimeMonth": "9.01%",
-    "uptimeYear": "9.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-25": 160
-    }
-  },
-  {
-    "name": "Test Broken Site 2",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site-2",
-    "status": "down",
-    "uptime": "77.39%",
-    "uptimeDay": "77.39%",
-    "uptimeWeek": "77.39%",
-    "uptimeMonth": "77.39%",
-    "uptimeYear": "77.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-25": 2
-    }
-  },
-  {
-    "name": "Test Broken Site 3",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site-3",
-    "status": "down",
-    "uptime": "5.64%",
-    "uptimeDay": "5.64%",
-    "uptimeWeek": "5.64%",
-    "uptimeMonth": "5.64%",
-    "uptimeYear": "5.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-25": 7
-    }
-  },
-  {
-    "name": "Test Broken Site 4",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site-4",
-    "status": "down",
-    "uptime": "5.97%",
-    "uptimeDay": "5.97%",
-    "uptimeWeek": "5.97%",
-    "uptimeMonth": "5.97%",
-    "uptimeYear": "5.97%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-07-25": 0
-    }
   }
 ]
