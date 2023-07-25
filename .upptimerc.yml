@@ -28,6 +28,8 @@ sites:
     maxResponseTime: 5000
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site 2
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
