@@ -1,7 +1,7 @@
 url: $PORTAL_URL
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2023-07-29T23:09:36.290Z
+status: down
+code: 500
+responseTime: 188
+lastUpdated: 2023-07-30T11:26:00.468Z
 startTime: Mon Jul 24 2023 06:38:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
