@@ -22,18 +22,20 @@
     "url": "$PORTAL_URL",
     "icon": "https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 505,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
-    "dailyMinutesDown": {}
+    "time": 374,
+    "timeDay": 347,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2023-07-30": 0
+    }
   },
   {
     "name": "Backend API",
