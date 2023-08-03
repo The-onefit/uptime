@@ -21,6 +21,8 @@ sites:
   - name: Backend API
     url: $TRAINING_API_URL
     icon: https://www.theonefitapp.com/assets/images/favicon_io/favicon-32x32.png
+    headers:
+      - "Content-Type: application/json"  
     maxResponseTime: 5000
 
 status-website:
